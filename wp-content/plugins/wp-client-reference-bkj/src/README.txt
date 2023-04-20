@@ -1,0 +1,1 @@
+This directory contains source code for the plugin. They are here for reference only. If you would like to make edits to these files, download this source code and rebuild it using NPM. Replace these source files when you are finished.

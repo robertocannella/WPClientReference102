@@ -1,0 +1,20 @@
+{
+  "name": "wp-client-reference-bkj",
+  "version": "1.0.0",
+  "description": "It's common practice for digital agencies to build a WordPress site/theme then simply hand it off to the client for day-to-day updating. The developers work hard to strike a balance between replicating the designer's vision and making the theme easy for the client to use. As the design becomes more complex the developer faces questions: Will the client remember to wrap this in a `<blockquote>`? Can we count on the content manager remembering to add `class=\"btn\"` to that link?",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^26.2.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  }
+}
